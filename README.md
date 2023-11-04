@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">I came full of uniqueness.</h3>
+<h1 align="center" color="red">Hi 👋, I'm Talha</h1>
+<h3 align="center">I came with full of uniqueness.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-talha&label=Profile%20views&color=0e75b6&style=flat" alt="github-talha" /> </p>
 

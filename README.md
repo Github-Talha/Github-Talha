@@ -1,3 +1,4 @@
+<img align="center" width="100%" src="https://www.google.com/search?sca_esv=579468707&q=coding+gif&tbm=isch&source=univ&fir=Ih3WtxccUYSzMM%252CDjMcDTxMfmhRGM%252C_%253BFdv9-fmPsfShWM%252ClDB0w3JyV4fEBM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253BKOFNRuIZBqeAGM%252Cbyl13oNOX0zH9M%252C_%253BItVEdfLwG7yO7M%252CwC1y6bJ6OPI5TM%252C_%253Bz9e00eCt21ZB_M%252C27cE5w3VYsCxRM%252C_%253BuYYa30tHbsaH2M%252CCJdgcKdcN0j58M%252C_%253BI27d9Sp9_gAr5M%252CwPNuSPiD_cKq-M%252C_%253B4EohS9e2g4qUPM%252CmdVHPyU3lxttxM%252C_%253BA0Q3JumBBr3aXM%252CwPNuSPiD_cKq-M%252C_%253BQuqbC-xCVJtgOM%252CvIGr6aPU08NmfM%252C_%253BFe9w5pmKk2xu7M%252Cbyl13oNOX0zH9M%252C_%253B5aTEtXgFsXLpZM%252CTP8RVgVgOXtgsM%252C_&usg=AI4_-kQTx5wXKx7c8ODdlDsFXZ1t9ME8_g&sa=X&ved=2ahUKEwjkpp6E1aqCAxXZ3DgGHRg4COEQ7Al6BAgVEGc&biw=1440&bih=758&dpr=2#imgrc=55jyr3BK5duBpM"><img>
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 

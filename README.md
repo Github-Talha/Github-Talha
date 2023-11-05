@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="[https://images.app.goo.gl/QMkAntfKQL9bWqKL9](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)">
+<img align="center" width="500" alt="cooding" src="[https://images.app.goo.gl/QMkAntfKQL9bWqKL9](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)">
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 

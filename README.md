@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view](https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view?usp=sharing)" alt="my picture">
+<img src="[[https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view](https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view?usp=sharing)](https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1200)" alt="my picture">
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 

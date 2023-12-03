@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="eye" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg">
+<img align="center" width="100%" alt="eye" src="[https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg](https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view?usp=sharing)">
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 <img align="center" width="100%" height="500" alt="Cooding" src="https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view?usp=sharing">

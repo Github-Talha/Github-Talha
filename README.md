@@ -1,4 +1,4 @@
-<img src="https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg" alt="my picture">
+<img src="https://drive.google.com/file/d/1I8zkLbh-7w_PJeDFKPu8Wqt_LqP4PM_0/view?usp=sharing" alt="my picture">
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 

@@ -1,4 +1,3 @@
-<img src="https://www.dropbox.com/scl/fi/u6ijre18091g6t08jgrvg/A-person-with-islamic-cloths-like-jubbah-and-bira-is-sitting-before-a-big-big-monitor-and-he.jpeg?rlkey=0571na3bnnha21pj5o82a2lvo&dl=0" alt="my picture">
 <h1 align="center" color="red">Hi 👋, I'm Talha</h1>
 <h3 align="center">I came with full of uniqueness.</h3>
 
